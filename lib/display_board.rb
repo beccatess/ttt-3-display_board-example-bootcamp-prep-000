@@ -10,3 +10,5 @@ def display_board
   print cell + separated + cell + separated + cell
   
 end
+
+return display_board
