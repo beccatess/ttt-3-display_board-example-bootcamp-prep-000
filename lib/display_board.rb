@@ -3,11 +3,11 @@ def display_board
   cell = " " + " " + " "
   separated = "|"
   linebreak = "-----------"
-  print cell + separated + cell + separated + cell
-  print linebreak
-  print cell + separated + cell + separated + cell
-  print linebreak
-  print cell + separated + cell + separated + cell
+  puts cell + separated + cell + separated + cell
+  puts linebreak
+  puts cell + separated + cell + separated + cell
+  puts linebreak
+  puts cell + separated + cell + separated + cell
 
 end
 
